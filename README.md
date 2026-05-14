@@ -1,5 +1,4 @@
 # patient-feedback-ai-pipeline
-cat > /mnt/user-data/outputs/patient-feedback/README.md << 'MDEOF'
 <div align="center">
 
 # 🏥 Patient Feedback AI Pipeline
