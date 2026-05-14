@@ -22,15 +22,12 @@ dashboard, and instantly alerts staff when critical feedback is detected —
 ## 📸 Screenshots
 
 | Patient Form | Make.com Automation |
-|:---:|:---:|
-| ![Form](<img width="1887" height="785" alt="image" src="https://github.com/user-attachments/assets/02e52be8-b475-468b-9ba7-cc927ee10429" />
-) | ![Make Scenario](<img width="1801" height="773" alt="image" src="https://github.com/user-attachments/assets/f2ab49d0-9cf3-41f9-a18b-452bb94bc75b" />
-) |
-| **Live Dashboard** | **AI Output Detail** |
-| ![Dashboard](!(<img width="1919" height="785" alt="image" src="https://github.com/user-attachments/assets/568959e2-61a6-4139-bc73-83a7c4089894" />
-)
-) | ![AI Output](<img width="1916" height="661" alt="image" src="https://github.com/user-attachments/assets/a3825a17-7474-46ab-9d76-d941effe4a34" />
-) |
+|---|---|
+| <img width="100%" alt="Patient Form" src="https://github.com/user-attachments/assets/02e52be8-b475-468b-9ba7-cc927ee10429" /> | <img width="100%" alt="Make Scenario" src="https://github.com/user-attachments/assets/f2ab49d0-9cf3-41f9-a18b-452bb94bc75b" /> |
+
+| Live Dashboard | AI Output Detail |
+|---|---|
+| <img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/568959e2-61a6-4139-bc73-83a7c4089894" /> | <img width="100%" alt="AI Output" src="https://github.com/user-attachments/assets/a3825a17-7474-46ab-9d76-d941effe4a34" /> |
 
 ---
 
@@ -245,5 +242,4 @@ MSc Informatics for Digital Health — University of Pisa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hind-faiz-6b466a288)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HINDHIO)
-MDEOF
-echo "done"
+
